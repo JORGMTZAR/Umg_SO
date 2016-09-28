@@ -1,0 +1,35 @@
+C:\Users\JUAN PABLO\Documents\Visual Studio 2010\Projects\proyWinProcesosFcFs\proyWinProcesosFcFs\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\JUAN PABLO\Documents\Visual Studio 2010\Projects\proyWinProcesosFcFs\proyWinProcesosFcFs\obj\x86\Debug\proyWinProcesosFcFs.Form1.resources
+C:\Users\JUAN PABLO\Documents\Visual Studio 2010\Projects\proyWinProcesosFcFs\proyWinProcesosFcFs\obj\x86\Debug\proyWinProcesosFcFs.Properties.Resources.resources
+C:\Users\JUAN PABLO\Documents\Visual Studio 2010\Projects\proyWinProcesosFcFs\proyWinProcesosFcFs\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\JUAN PABLO\Documents\Visual Studio 2010\Projects\proyWinProcesosFcFs\proyWinProcesosFcFs\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\JUAN PABLO\Documents\Visual Studio 2010\Projects\proyWinProcesosFcFs\proyWinProcesosFcFs\bin\Debug\proyWinProcesosFcFs.exe
+C:\Users\JUAN PABLO\Documents\Visual Studio 2010\Projects\proyWinProcesosFcFs\proyWinProcesosFcFs\bin\Debug\proyWinProcesosFcFs.pdb
+C:\Users\JUAN PABLO\Documents\Visual Studio 2010\Projects\proyWinProcesosFcFs\proyWinProcesosFcFs\obj\x86\Debug\proyWinProcesosFcFs.exe
+C:\Users\JUAN PABLO\Documents\Visual Studio 2010\Projects\proyWinProcesosFcFs\proyWinProcesosFcFs\obj\x86\Debug\proyWinProcesosFcFs.pdb
+C:\Users\JUAN PABLO\Documents\Visual Studio 2010\Projects\proyWinProcesosFcFs\proyWinProcesosFcFs\obj\x86\Debug\proyWinProcesosFcFs.AboutBox1.resources
+C:\Users\Juan Pablo\Documents\Visual Studio 2012\Projects\proyWinProcesosFcFs\proyWinProcesosFcFs\obj\x86\Debug\proyWinProcesosFcFs.exe
+C:\Users\Juan Pablo\Documents\Visual Studio 2012\Projects\proyWinProcesosFcFs\proyWinProcesosFcFs\obj\x86\Debug\proyWinProcesosFcFs.pdb
+C:\Users\Juan Pablo\Documents\Visual Studio 2012\Projects\proyWinProcesosFcFs\proyWinProcesosFcFs\bin\Debug\proyWinProcesosFcFs.exe
+C:\Users\Juan Pablo\Documents\Visual Studio 2012\Projects\proyWinProcesosFcFs\proyWinProcesosFcFs\bin\Debug\proyWinProcesosFcFs.pdb
+C:\Users\Juan Pablo\Documents\Visual Studio 2012\Projects\proyWinProcesosFcFs\proyWinProcesosFcFs\obj\x86\Debug\proyWinProcesosFcFs.csprojResolveAssemblyReference.cache
+C:\Users\Juan Pablo\Documents\Visual Studio 2012\Projects\proyWinProcesosFcFs\proyWinProcesosFcFs\obj\x86\Debug\proyWinProcesosFcFs.AboutBox1.resources
+C:\Users\Juan Pablo\Documents\Visual Studio 2012\Projects\proyWinProcesosFcFs\proyWinProcesosFcFs\obj\x86\Debug\proyWinProcesosFcFs.Form1.resources
+C:\Users\Juan Pablo\Documents\Visual Studio 2012\Projects\proyWinProcesosFcFs\proyWinProcesosFcFs\obj\x86\Debug\proyWinProcesosFcFs.Properties.Resources.resources
+C:\Users\Juan Pablo\Documents\Visual Studio 2012\Projects\proyWinProcesosFcFs\proyWinProcesosFcFs\obj\x86\Debug\proyWinProcesosFcFs.csproj.GenerateResource.Cache
+C:\Users\Melvin Figueroa\Desktop\proyWinProcesosFcFs\proyWinProcesosFcFs\obj\x86\Debug\proyWinProcesosFcFs.exe
+C:\Users\Melvin Figueroa\Desktop\proyWinProcesosFcFs\proyWinProcesosFcFs\obj\x86\Debug\proyWinProcesosFcFs.pdb
+C:\Users\Melvin Figueroa\Desktop\proyWinProcesosFcFs\proyWinProcesosFcFs\bin\Debug\proyWinProcesosFcFs.exe
+C:\Users\Melvin Figueroa\Desktop\proyWinProcesosFcFs\proyWinProcesosFcFs\bin\Debug\proyWinProcesosFcFs.pdb
+C:\Users\Melvin Figueroa\Desktop\proyWinProcesosFcFs\proyWinProcesosFcFs\obj\x86\Debug\proyWinProcesosFcFs.csprojResolveAssemblyReference.cache
+C:\Users\Melvin Figueroa\Desktop\proyWinProcesosFcFs\proyWinProcesosFcFs\obj\x86\Debug\proyWinProcesosFcFs.Form1.resources
+C:\Users\Melvin Figueroa\Desktop\proyWinProcesosFcFs\proyWinProcesosFcFs\obj\x86\Debug\proyWinProcesosFcFs.Properties.Resources.resources
+C:\Users\Melvin Figueroa\Desktop\proyWinProcesosFcFs\proyWinProcesosFcFs\obj\x86\Debug\proyWinProcesosFcFs.csproj.GenerateResource.Cache
+C:\Users\Melvin Figueroa\Desktop\Administrador de Procesos csharp\proyWinProcesosFcFs\obj\x86\Debug\proyWinProcesosFcFs.exe
+C:\Users\Melvin Figueroa\Desktop\Administrador de Procesos csharp\proyWinProcesosFcFs\obj\x86\Debug\proyWinProcesosFcFs.pdb
+C:\Users\Melvin Figueroa\Desktop\Administrador de Procesos csharp\proyWinProcesosFcFs\bin\Debug\proyWinProcesosFcFs.exe
+C:\Users\Melvin Figueroa\Desktop\Administrador de Procesos csharp\proyWinProcesosFcFs\bin\Debug\proyWinProcesosFcFs.pdb
+C:\Users\Melvin Figueroa\Desktop\Administrador de Procesos csharp\proyWinProcesosFcFs\obj\x86\Debug\proyWinProcesosFcFs.csprojResolveAssemblyReference.cache
+C:\Users\Melvin Figueroa\Desktop\Administrador de Procesos csharp\proyWinProcesosFcFs\obj\x86\Debug\proyWinProcesosFcFs.Form1.resources
+C:\Users\Melvin Figueroa\Desktop\Administrador de Procesos csharp\proyWinProcesosFcFs\obj\x86\Debug\proyWinProcesosFcFs.Properties.Resources.resources
+C:\Users\Melvin Figueroa\Desktop\Administrador de Procesos csharp\proyWinProcesosFcFs\obj\x86\Debug\proyWinProcesosFcFs.csproj.GenerateResource.Cache
